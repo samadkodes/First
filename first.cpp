@@ -2,8 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "Hello, World!";
+    cout << "Hello from Samad!";
 }
 
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
